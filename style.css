@@ -111,3 +111,14 @@ button {
     font-size: 32px;
     font-weight: 400;
 }
+
+@media (max-width: 1000px) {
+
+    h1 {
+        font-family: 'Chakra Petch', sans-serif;
+        font-size: 50px;
+        padding-bottom: 3rem;
+    }
+    
+
+    }
